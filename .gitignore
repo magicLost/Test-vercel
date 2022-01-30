@@ -1,0 +1,13 @@
+.cache
+
+node_modules
+
+.env
+.env.development
+.env.production
+
+src/**/__snapshots__
+
+public
+
+src/images
